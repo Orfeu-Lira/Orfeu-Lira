@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Matheus 👋
 
-<!--
-**Orfeu-Lira/Orfeu-Lira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo!;Estudante+de+programa%C3%A7%C3%A3o;Aprendendo+Python+e+Dev+Web!)
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou estudante e estou aprendendo desenvolvimento web e Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+## Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
