@@ -12,4 +12,6 @@ Sou estudante de Desenvolvimento de Software Multiplataforma.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Orfeu_Lira&show_icons=true&theme=radical)
+![GitHub Stats](https://githubreadmestatsfast.vercel.app/api?username=Orfeu-Lira&show_icons=true&theme=radical)
+
+![Top Langs](https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Orfeu-Lira&layout=compact&theme=radical)
