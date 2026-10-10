@@ -1,6 +1,6 @@
-# 🎮 Matheus — Player 1
+# 🎮 Matheus Araujo Renner (Orfeu)— Player 1
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=700&lines=Carregando+perfil...;Estudante+de+Desenvolvimento+de+Software!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=1000&lines=Carregando+perfil...;Estudante+de+Desenvolvimento+de+Software+Multiplataforma!)
 
 > 🕹️ **Classe:** Desenvolvedor em formação  
 > ⭐ **Nível:** Sempre aprendendo  
