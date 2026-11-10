@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/banner-mistico.svg" alt="Banner preto e vermelho com circuitos futuristas e símbolos místicos" width="100%" />
+</div>
+
 # 🎮 Matheus Araujo Renner (Orfeu)— Player 1
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=1000&lines=Carregando+perfil...;Estudante+de+Desenvolvimento+de+Software+Multiplataforma!)
